@@ -58,6 +58,3 @@ UIS.InputEnded:Connect(function(input)
         dragging = false
     end
 end)
-
-Сегодня
-
