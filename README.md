@@ -13,7 +13,7 @@ image.Parent = gui
 image.Size = UDim2.fromOffset(460, 215)
 image.Position = UDim2.new(0.5, -230, 0.3, 0)
 image.BackgroundTransparency = 1
-image.Image = "https://github.com/user-attachments/assets/b288f262-abaa-4135-ae6b-8f01351d9abc
+image.Image = "<img width="1774" height="887" alt="515362C9-5551-4866-8E95-65DAD00670B2" src="https://github.com/user-attachments/assets/c12d869c-02a4-43ab-9fb9-9f7b844edc64" />
 "
 image.ScaleType = Enum.ScaleType.Fit
 image.Active = true
