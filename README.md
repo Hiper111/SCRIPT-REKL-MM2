@@ -17,7 +17,8 @@ image.Image = "<img width="3548" height="1774" alt="Без названия261_2
 
 
 "
-image.ScaleType = Enum.ScaleType.Fit
+image.ScaleType = Enu<img width="3548" height="1774" alt="Без названия263_20261118235926" src="https://github.com/user-attachments/assets/24cd9380-fa9b-4737-8b5a-fa7c50b3578a" />
+m.ScaleType.Fit
 image.Active = true
 
 -- Закруглённые края
