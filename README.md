@@ -13,8 +13,8 @@ image.Parent = gui
 image.Size = UDim2.fromOffset(460, 215)
 image.Position = UDim2.new(0.5, -230, 0.3, 0)
 image.BackgroundTransparency = 1
-image.Image = "<img width="1536" height="768" alt="Без названия260_20261118211133" src="https://github.com/user-attachments/assets/63e08018-13e8-47e2-ac67-276c28b559f1" />
-"
+image.Image = <img width="1536" height="768" alt="Без названия260_20261118211133" src="https://github.com/user-attachments/assets/63e08018-13e8-47e2-ac67-276c28b559f1" />
+
 image.ScaleType = Enum.ScaleType.Fit
 image.Active = true
 
