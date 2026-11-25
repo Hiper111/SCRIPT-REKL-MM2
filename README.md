@@ -1,1 +1,1 @@
-width="3548" height="1774" alt="Без названия261_20261118233004" src="https://github.com/user-attachments/assets/5ac70501-fad2-402c-b337-b6a78f7d9964" /><img width="3072" height="2048" alt="Без названия264_20261125203234" src="https://github.com/user-attachments/assets/6db9274f-3f4f-495d-8f0c-0986a7c365c4" />
+<img width="3072" height="2048" alt="Без названия264_20261125203234" src="https://github.com/user-attachments/assets/e2a35e3d-2bf9-449a-9118-ba327a2ab191" />
